@@ -1,0 +1,1 @@
+from legends_io_flask import legends_io_flask
